@@ -1,0 +1,12 @@
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Release\Ax5LauncherZ.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Release\Ax5LauncherZ.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Release\Ax5LauncherZ.vbproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Release\Clauncher.Fail.resources
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Release\Clauncher.Form1.resources
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Release\Clauncher.Resources.resources
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\bin\Release\Clauncher.exe.config
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\bin\Release\Clauncher.exe
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\bin\Release\Clauncher.xml
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Release\Clauncher.exe
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Release\Clauncher.xml
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Release\Clauncher.exe.config

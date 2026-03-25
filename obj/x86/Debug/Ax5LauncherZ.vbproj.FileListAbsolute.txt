@@ -1,0 +1,6 @@
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Debug\Ax5LauncherZ.vbproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Debug\$safeprojectname$.Fail.resources
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Debug\$safeprojectname$.Form1.resources
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Debug\$safeprojectname$.Resources.resources
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Debug\Ax5LauncherZ.vbproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\SA PATCH\CLauncher\obj\x86\Debug\Ax5LauncherZ.vbproj.CoreCompileInputs.cache

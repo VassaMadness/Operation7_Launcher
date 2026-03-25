@@ -1,0 +1,43 @@
+<VSTemplate Version="3.0.0" xmlns="http://schemas.microsoft.com/developer/vstemplate/2005" Type="Project">
+  <TemplateData>
+    <Name>Ax5Launcher</Name>
+    <Description>Axeso5 Launcher - FlowAntrax</Description>
+    <ProjectType>VisualBasic</ProjectType>
+    <ProjectSubType>
+    </ProjectSubType>
+    <SortOrder>1000</SortOrder>
+    <CreateNewFolder>true</CreateNewFolder>
+    <DefaultName>Ax5Launcher</DefaultName>
+    <ProvideDefaultName>true</ProvideDefaultName>
+    <LocationField>Enabled</LocationField>
+    <EnableLocationBrowseButton>true</EnableLocationBrowseButton>
+    <Icon>__TemplateIcon.ico</Icon>
+    <PreviewImage>__PreviewImage.ico</PreviewImage>
+  </TemplateData>
+  <TemplateContent>
+    <Project TargetFileName="Ax5LauncherZ.vbproj" File="Ax5LauncherZ.vbproj" ReplaceParameters="true">
+      <ProjectItem ReplaceParameters="true" TargetFileName="Fail.vb">Fail.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Fail.Designer.vb">Fail.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Fail.resx">Fail.resx</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.vb">Form1.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.Designer.vb">Form1.Designer.vb</ProjectItem>
+      <ProjectItem ReplaceParameters="true" TargetFileName="Form1.resx">Form1.resx</ProjectItem>
+      <Folder Name="My Project" TargetFolderName="My Project">
+        <ProjectItem ReplaceParameters="false" TargetFileName="app.manifest">app.manifest</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.myapp">Application.myapp</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Application.Designer.vb">Application.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="AssemblyInfo.vb">AssemblyInfo.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.resx">Resources.resx</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Resources.Designer.vb">Resources.Designer.vb</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.settings">Settings.settings</ProjectItem>
+        <ProjectItem ReplaceParameters="true" TargetFileName="Settings.Designer.vb">Settings.Designer.vb</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="false" TargetFileName="OPERATION7.ico">OPERATION7.ico</ProjectItem>
+      <Folder Name="Resources" TargetFolderName="Resources">
+        <ProjectItem ReplaceParameters="false" TargetFileName="config.cfg">config.cfg</ProjectItem>
+        <ProjectItem ReplaceParameters="false" TargetFileName="config2.cfg">config2.cfg</ProjectItem>
+      </Folder>
+      <ProjectItem ReplaceParameters="false" TargetFileName="zClauncher.pfx">zClauncher.pfx</ProjectItem>
+    </Project>
+  </TemplateContent>
+</VSTemplate>
